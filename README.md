@@ -1,0 +1,1 @@
+This project focuses on forecasting Walmart weekly sales using classical time series models. It covers the full pipeline from data preprocessing and visualization to model development (AR, ARIMA, SARIMA) and evaluation. The goal is to uncover trends, seasonality, and generate insights that can support retail business decisions.
